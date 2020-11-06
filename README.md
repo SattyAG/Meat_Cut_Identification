@@ -7,4 +7,4 @@ Computer Vision (CV) is one of the sexiest fields in artificial intelligence. Th
 # Dataset
 The dataset consists of five different meat products as shown below:
 P1:
-|[] (https://github.com/SattyAG/Meat_Cut_Identification/blob/main/Images/P1.jpg)
+|[](https://github.com/SattyAG/Meat_Cut_Identification/blob/main/Images/P1.jpg)
